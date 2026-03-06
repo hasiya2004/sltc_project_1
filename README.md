@@ -93,6 +93,7 @@ cd sltc_project_1
 
 # 3. Run the app
 python event_registration.py
+```
 
 > ⚠️ No extra libraries needed — everything uses Python's standard library.
 
