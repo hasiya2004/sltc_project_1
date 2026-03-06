@@ -86,14 +86,13 @@ This project was built to demonstrate the following concepts from **CCS1300**:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hasiya2004/event-registration-system.git
+git clone https://github.com/hasiya2004/sltc_project_1.git
 
 # 2. Navigate into the folder
-cd event-registration-system
+cd sltc_project_1
 
 # 3. Run the app
 python event_registration.py
-```
 
 > ⚠️ No extra libraries needed — everything uses Python's standard library.
 
